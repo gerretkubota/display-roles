@@ -27,6 +27,7 @@ const Users = () => {
   return (
     <div>
       <select>
+        <option>Create new user</option>
         {data?.map((user: IUserData) => <option key={user.id}>{user.username}</option>)}
       </select>
     </div>
