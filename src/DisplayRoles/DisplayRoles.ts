@@ -11,8 +11,23 @@
   5. Display the label (role name) below each step circle
 */
 
-const DisplayRoles = () => {
+// 4 steps;
+  // no role
+  // user
+  // moderator
+  // admin
+// Role component that will show user role and a check mark depending on prop
+  // only display a checkmark inside the circle of the selected step (need parent state for this)
+// display the label below each step circle
+// need fetch role button
 
+// if the user does not exist/creating a new user, alow the user to manually select a step by click on it
+
+const DisplayRoles = () => {
+  // state for currently selected step
+  // state for user info
+  // need a form for user
+  // need fetch
 };
 
 export default DisplayRoles;

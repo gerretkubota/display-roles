@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Bob",
+      "role": "No Role"
+    },
+    {
+      "id": 2,
+      "username": "Alice",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "username": "Frank",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "username": "Peanut",
+      "role": "Moderator"
+    }
+  ]
+}
